@@ -1,4 +1,4 @@
-Embedded Systems C Programming - 90 Seconds Counter Project
+Embedded Systems C Programming - Digital Input
 =========================================================================
 In this project i use 
 
